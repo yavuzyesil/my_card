@@ -18,4 +18,4 @@ It has one screen and shows these things:
 
 ---
 
-![Sample Picture](./mpic/appFace.png)
+<img src="./mpic/appFace.png" style="width:50%">
